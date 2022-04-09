@@ -1,2 +1,2 @@
 # class_academy_acc
-Repositório Teste Academia 2022
+# Exercicio GIT Academia Accenture
